@@ -1,2 +1,2 @@
 # libft
-A static C library compiled with a Makefile, it's the first project of School 42SP
+A static C library, it's the first project of School 42SP
